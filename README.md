@@ -44,7 +44,7 @@ cd channel-scraper
 npm install
 ```
 
-### 3. Create a `config.js` file
+### 3. Create a `.env` file
 
 Inside the project root, create a `.env` file:
 
