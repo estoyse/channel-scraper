@@ -34,7 +34,7 @@ When you send a `t.me/c/<channel_id>/<post_id>` link in your archive channel, th
 ### 1. Clone the repo
 
 ```bash
-git clone https://github.com/your-username/channel-scraper.git
+git clone https://github.com/estoyse/channel-scraper.git
 cd channel-scraper
 ```
 
