@@ -1,4 +1,4 @@
-# 💸 money-trckr-backend
+# 🏴‍☠️ channel-scraper
 
 A Telegram automation script built with [GramJS](https://github.com/gram-js/gramjs) to **save and archive messages/media** from `t.me/c/...` (private channel) links into a designated archive channel.
 
